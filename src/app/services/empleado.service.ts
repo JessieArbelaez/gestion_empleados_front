@@ -16,7 +16,7 @@ export class EmpleadoService {
 
   empleados: Empleado[];
 
-  readonly URL_API = 'https://gestion-empleados-back-kmns2cbq0-jessiearbelaezs-projects.vercel.app/api/empleados';
+  readonly URL_API = 'https://gestion-empleados-back.vercel.app/api/empleados';
 
   constructor(private http: HttpClient) {
 

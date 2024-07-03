@@ -1,0 +1,6 @@
+{
+    "/api": {
+        "target": "https://gestion-empleados-back.vercel.app",
+        "secure": false
+    }
+}
